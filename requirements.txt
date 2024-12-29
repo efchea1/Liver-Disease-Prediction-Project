@@ -1,1 +1,7 @@
-
+pandas
+numpy
+sklearn
+StandardScaler
+RandomForestClassifier
+Support Vector Machine 
+MLPClassifier
