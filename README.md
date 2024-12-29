@@ -41,7 +41,7 @@ This synthetic dataset was preprocessed to eliminate noise and irrelevant inform
 
 2. Preprocess the data by handling missing values and scaling features.
 
-3. Apply machine learning algorithms, including Random Forest, Support Vector Machine (SVM), and Neural Network, to predict liver disease.
+3. Apply machine learning algorithms, including **Random Forest, Support Vector Machine (SVM),** and **Neural Network,** to predict liver disease.
 
 4. Compare model performance based on metrics such as accuracy, precision, recall, and F1-score.
 
