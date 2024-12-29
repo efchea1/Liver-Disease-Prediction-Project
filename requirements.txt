@@ -3,5 +3,5 @@ numpy
 sklearn
 StandardScaler
 RandomForestClassifier
-Support Vector Machine 
+SVC
 MLPClassifier
