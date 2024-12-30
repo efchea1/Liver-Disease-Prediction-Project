@@ -7,7 +7,7 @@ This repository holds a solo liver disease prediction project.
 
 This Python solo project focuses on predictive modeling for liver disease diagnosis using a synthetic dataset sourced from Kaggle. The primary aim is to leverage machine learning algorithms to identify patterns and factors influencing liver health, aiding in research insights and potential healthcare interventions.
 
-### Dataset Description**
+### Dataset Description
 
 The dataset comprises 1,700 records and 11 features, encompassing **demographic, lifestyle,** and **health indicators**. The target variable is **"Diagnosis,"** a *binary indicator (0 or 1)* representing the presence or absence of liver disease. 
 
