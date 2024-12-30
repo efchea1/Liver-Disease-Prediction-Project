@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
-
 # load needed libraries
 import pandas as pd # for working with structured data in the form of dataframes, enabling data manipulation, analysis, and preprocessing.
 import numpy as np # for numerical computations, such as working with arrays and performing mathematical operations.
@@ -85,10 +79,3 @@ else:
     best_model = mlp_model
 
 print("Best model saved based on accuracy.")
-
-
-# In[ ]:
-
-
-
-
